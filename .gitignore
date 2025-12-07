@@ -1,0 +1,45 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Build
+!build
+!dist
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Logs
+*.log
+/logs/
+/storage/logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Composer
+composer.phar
+composer.lock
+
+# Testing
+/coverage/
+.phpunit.result.cache
+
+# OS
+Thumbs.db
+.DS_Store
+/.aitk\
+/.aitk\
+.aitk\
+/.aitk

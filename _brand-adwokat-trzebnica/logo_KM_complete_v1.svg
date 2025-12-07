@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 600">
+  <!-- Generator: Adobe Illustrator 29.8.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 2)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 32px;
+        letter-spacing: .1em;
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st0, .st2 {
+        fill: #c4994f;
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .st3 {
+        fill: url(#Gradient_bez_nazwy_3);
+        fill-rule: evenodd;
+      }
+
+      .st2 {
+        font-size: 120px;
+      }
+
+      .st4 {
+        fill: url(#Gradient_bez_nazwy_4);
+      }
+
+      .st5 {
+        fill: #2b3139;
+      }
+    </style>
+    <linearGradient id="Gradient_bez_nazwy_3" data-name="Gradient bez nazwy 3" x1="101.3" y1="720.1" x2="102.3" y2="719.1" gradientTransform="translate(-13768 115441.4) scale(140 -160)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4c47a"/>
+      <stop offset=".5" stop-color="#d4b065"/>
+      <stop offset="1" stop-color="#c4994f"/>
+    </linearGradient>
+    <linearGradient id="Gradient_bez_nazwy_4" data-name="Gradient bez nazwy 4" x1="99.7" y1="719.5" x2="100.7" y2="718.5" gradientTransform="translate(-4033 65009.1) scale(45 -90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4c47a"/>
+      <stop offset=".5" stop-color="#d4b065"/>
+      <stop offset="1" stop-color="#c4994f"/>
+    </linearGradient>
+  </defs>
+  <g id="background-layer">
+    <rect class="st5" y="0" width="800" height="600"/>
+  </g>
+  <g id="logo-group">
+    <g id="initials">
+      <g class="st1">
+        <text class="st2" transform="translate(200 320)"><tspan x="0" y="0">K</tspan></text>
+        <text class="st2" transform="translate(291.7 320)"><tspan x="0" y="0">M</tspan></text>
+      </g>
+    </g>
+    <g id="signet">
+      <g id="diamond-frame">
+        <path class="st3" d="M480,220l70,80-70,80-70-80,70-80ZM480,235l-55,65,55,65,55-65-55-65Z"/>
+      </g>
+      <g id="inner-element">
+        <path class="st4" d="M480,250c-13.3,13.3-21.7,30-25,50,3.3,16.7,11.7,30,25,40,10-10,16.7-23.3,20-40-3.3-23.3-10-40-20-50ZM480,250c6.7,10,11.7,23.3,15,40-3.3,13.3-8.3,26.7-15,40"/>
+      </g>
+    </g>
+    <g id="text-kancelaria">
+      <text class="st0" transform="translate(272 440)"><tspan x="0" y="0">KANCELARIA</tspan></text>
+    </g>
+    <g id="text-adwokacka">
+      <text class="st0" transform="translate(271.7 485)"><tspan x="0" y="0">ADWOKACKA</tspan></text>
+    </g>
+  </g>
+</svg>
